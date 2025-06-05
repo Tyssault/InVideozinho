@@ -9,6 +9,7 @@ export default function App() {
         <button className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
           Criar Vídeo
         </button>
+        <p className="mt-4 text-sm text-gray-600">Última atualização automática recebida com sucesso.</p>
       </div>
     </div>
   );
